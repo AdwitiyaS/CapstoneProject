@@ -67,7 +67,7 @@
  
 **Database:** MongoDB Atlas
  
-**Deployment:** Railway
+**Deployment:** Currently configured for local deployment. Cloud deployment requires a live MongoDB Atlas backend.
  
 ---
  
