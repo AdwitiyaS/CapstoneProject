@@ -1,6 +1,9 @@
 # NeuralGuard — AI-Powered Fraud Detection Platform
  
 > Real-time fraud detection combining ML ensembles, LLM-generated insights, and SHAP explainability — analyzing 240,000+ transactions with 99.96% accuracy.
+
+ 
+![Login Page](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-login_page.png)
  
 ![Dashboard](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-dashboard.png)
  
