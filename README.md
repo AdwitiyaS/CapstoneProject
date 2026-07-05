@@ -4,7 +4,7 @@
 
  
  
-![Dashboard](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-dashboard.png)
  
 ---
  
@@ -39,25 +39,24 @@
 ### Login Page
 ![Login Page](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-login_page.png)
 ### Main Dashboard
-![Main Dashboard](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-dashboard1.png)
+![Main Dashboard](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-dashboard1.png)
  
 ### Model Performance
-![Model Stats](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-model_stats.png)
+![Model Stats](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-model_stats.png)
  
 ### Manual Check with SHAP Explainer
-![Manual Check](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-manual_check.png)
- 
+![Manual Check](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-manual_check.png)
 ### Analytics Hub
-![Analytics](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-analytics.png)
+![Analytics](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-analytics.png)
  
 ### Case Review System
-![Case Review](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-case_Review.png)
+![Case Review](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-case_Review.png)
  
 ### Transaction History
-![Transactions](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-transactions.png)
+![Transactions](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-transactions.png)
  
 ### CSV Batch Upload
-![Upload Data](https://github.com/CapstoneTeam38/CapstoneProject/raw/main/assets1-upload_data.png)
+![Upload Data](https://raw.githubusercontent.com/AdwitiyaS/CapstoneProject/main/assets1-upload_data.png)
  
 ---
  
